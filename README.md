@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PCoderG
-- 👀 I’m interested in codind
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning js
 
 <!---
